@@ -2,7 +2,7 @@
 
 ## Problem
 
-Implement the Thomas International GIA Numerical Reasoning Number Generator
+Implement the Thomas International GIA Numerical Reasoning Number Generator for practicing.
 
 ## Running
 
